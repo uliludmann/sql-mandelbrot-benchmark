@@ -1,8 +1,7 @@
 """
 PyBrot - Pure Python Mandelbrot Set Computation
 
-This is a reference implementation in pure Python (no shortcuts like NumPy)
-to compare against the SQL-based DuckBrot benchmark. It computes the same
+This is a reference implementation in pure Python with some optimizations for the Python Interpreter. It computes the same
 Mandelbrot set using traditional procedural code.
 
 Author: Thomas Zeutschler

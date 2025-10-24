@@ -1,9 +1,8 @@
 """
 PyBrot - Pure Python Mandelbrot Set Computation
 
-This is a reference implementation in pure Python (no shortcuts like NumPy)
-to compare against the SQL-based DuckBrot benchmark. It computes the same
-Mandelbrot set using traditional procedural code.
+This is a reference implementation of the sql-mandelbrot-benchmark using Apache Arrow Datafusion.
+It computes the classic Mandelbrot set in plain SQL — no loops, no procedural code, just pure SQL.
 
 Author: Ulrich Ludmann
 License: MIT
