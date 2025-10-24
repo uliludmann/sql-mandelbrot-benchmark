@@ -4,7 +4,7 @@ PyBrot - Pure Python Mandelbrot Set Computation
 This is a reference implementation in pure Python with some optimizations for the Python Interpreter. It computes the same
 Mandelbrot set using traditional procedural code.
 
-Author: Thomas Zeutschler
+Author: Ulrich Ludmann
 License: MIT
 GitHub: https://github.com/Zeutschler/sql-mandelbrot-benchmark
 """
